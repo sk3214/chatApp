@@ -130,7 +130,7 @@ void getPort(struct sockaddr_in *socket_addr)
 
 void getAuthor(void)
 {
-    cse4589_print_and_log("I, %s, have read and understood the course academic integrity policy.\n", "mohamma9");
+    cse4589_print_and_log("I, %s, have read and understood the course academic integrity policy.\n", "sagarkhu");
 }
 void listClients(int *clientList)
 {
